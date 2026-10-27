@@ -4,7 +4,7 @@
 
 **Upstream material:** _no upstream material — self-directed_
 
-> ⚠️ Calendar clash: winter vac
+> 🟢 Winter vacation — no placement, full day available.
 
 ## What I did
 

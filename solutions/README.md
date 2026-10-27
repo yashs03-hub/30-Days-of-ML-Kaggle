@@ -4,8 +4,8 @@ Solutions and notes for the December 2026 sprint. One folder per day, numbered t
 
 Course material lives in this repo's top-level day folders (forked from [rojaAchary/30-Days-of-ML-Kaggle](https://github.com/rojaAchary/30-Days-of-ML-Kaggle)); my own work stays in here so `git pull upstream` never conflicts.
 
-| Day | Date | Topic | Upstream | Done | Clash |
-|----:|------|-------|----------|:----:|-------|
+| Day | Date | Topic | Upstream | Done | Note |
+|----:|------|-------|----------|:----:|------|
 | 1 | 1 Dec | [Titanic Random Forest](day01-titanic-random-forest/NOTES.md) | `1-Day-Titanic-Random-Forest` | [ ] |  |
 | 2 | 2 Dec | [Hello Python](day02-hello-python/NOTES.md) | `2-Day-Hello-Python` | [ ] |  |
 | 3 | 3 Dec | [Functions and Getting Help](day03-functions-and-getting-help/NOTES.md) | `3-Day-Functions-and-Getting-Help` | [ ] |  |
@@ -26,16 +26,16 @@ Course material lives in this repo's top-level day folders (forked from [rojaAch
 | 18 | 18 Dec | [Kaggle Competition (Automobile)](day18-kaggle-competition-automobile/NOTES.md) | `18-Day-Kaggle-Competition-Automobile` | [ ] |  |
 | 19 | 19 Dec | [Kaggle Competition](day19-kaggle-competition/NOTES.md) | `19-Day-Kaggle-Competition` | [ ] |  |
 | 20 | 20 Dec | [Kaggle Competition](day20-kaggle-competition/NOTES.md) | `20-Day-Kaggle-Competition` | [ ] |  |
-| 21 | 21 Dec | [Hyperparameter Tuning with Optuna](day21-hyperparameter-tuning-with-optuna/NOTES.md) | `Final-Days-21-30/30-days-ml-hyperparameter-tuning-optuna.ipynb` | [ ] | winter vac starts |
-| 22 | 22 Dec | [Optimized XGBoost](day22-optimized-xgboost/NOTES.md) | `Final-Days-21-30/30-days-ml-optimized-xgboost.ipynb` | [ ] | winter vac |
-| 23 | 23 Dec | [Stacking](day23-stacking/NOTES.md) | `Final-Days-21-30/30-days-ml-stacking.ipynb` | [ ] | winter vac |
-| 24 | 24 Dec | [Competition push](day24-competition-push/NOTES.md) | — | [ ] | winter vac |
-| 25 | 25 Dec | [Competition push](day25-competition-push/NOTES.md) | — | [ ] | winter vac |
-| 26 | 26 Dec | [Competition push](day26-competition-push/NOTES.md) | — | [ ] | winter vac |
-| 27 | 27 Dec | [Competition push](day27-competition-push/NOTES.md) | — | [ ] | winter vac |
-| 28 | 28 Dec | [Competition push](day28-competition-push/NOTES.md) | — | [ ] | winter vac |
-| 29 | 29 Dec | [Competition push](day29-competition-push/NOTES.md) | — | [ ] | winter vac |
-| 30 | 30 Dec | [Final submission](day30-final-submission/NOTES.md) | — | [ ] | winter vac |
+| 21 | 21 Dec | [Hyperparameter Tuning with Optuna](day21-hyperparameter-tuning-with-optuna/NOTES.md) | `Final-Days-21-30/30-days-ml-hyperparameter-tuning-optuna.ipynb` | [ ] | 🟢 winter vac starts |
+| 22 | 22 Dec | [Optimized XGBoost](day22-optimized-xgboost/NOTES.md) | `Final-Days-21-30/30-days-ml-optimized-xgboost.ipynb` | [ ] | 🟢 winter vac |
+| 23 | 23 Dec | [Stacking](day23-stacking/NOTES.md) | `Final-Days-21-30/30-days-ml-stacking.ipynb` | [ ] | 🟢 winter vac |
+| 24 | 24 Dec | [Competition push](day24-competition-push/NOTES.md) | — | [ ] | 🟢 winter vac |
+| 25 | 25 Dec | [Competition push](day25-competition-push/NOTES.md) | — | [ ] | 🟢 winter vac |
+| 26 | 26 Dec | [Competition push](day26-competition-push/NOTES.md) | — | [ ] | 🟢 winter vac |
+| 27 | 27 Dec | [Competition push](day27-competition-push/NOTES.md) | — | [ ] | 🟢 winter vac |
+| 28 | 28 Dec | [Competition push](day28-competition-push/NOTES.md) | — | [ ] | 🟢 winter vac |
+| 29 | 29 Dec | [Competition push](day29-competition-push/NOTES.md) | — | [ ] | 🟢 winter vac |
+| 30 | 30 Dec | [Final submission](day30-final-submission/NOTES.md) | — | [ ] | 🟢 winter vac |
 
 ## Conventions
 

@@ -4,7 +4,7 @@
 
 **Upstream material:** `../../Final-Days-21-30/30-days-ml-optimized-xgboost.ipynb`
 
-> ⚠️ Calendar clash: winter vac
+> 🟢 Winter vacation — no placement, full day available.
 
 ## What I did
 

@@ -4,7 +4,7 @@
 
 **Upstream material:** `../../Final-Days-21-30/30-days-ml-hyperparameter-tuning-optuna.ipynb`
 
-> ⚠️ Calendar clash: winter vac starts
+> 🟢 Winter vacation starts today — clearest run of the sprint (21 Dec – 1 Jan).
 
 ## What I did
 
